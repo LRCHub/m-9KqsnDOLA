@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "白夜",
+  "base_artist": "Reol",
+  "createdAt": "2026-02-13T23:21:24.994080Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "白夜",
+      "artist": "Reol",
+      "has_synced": true,
+      "path": "select/01_白夜_Reol.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "白夜",
+      "artist": "Epik High",
+      "has_synced": true,
+      "path": "select/02_白夜_Epik_High.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "白夜 (백야)",
+      "artist": "Epik High",
+      "has_synced": false,
+      "path": "select/03_白夜_(백야)_Epik_High.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "White Night(백야(白夜))",
+      "artist": "ONEUS(원어스)",
+      "has_synced": true,
+      "path": "select/04_White_Night(백야(白夜))_ONEUS(원어스).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "enchanted night ~ white night (enchanted night ~ 白夜)",
+      "artist": "Billlie",
+      "has_synced": true,
+      "path": "select/05_enchanted_night_~_white_night_(enchanted_night_~_白夜)_Billlie.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "白夜",
+      "artist": "KANA-BOON",
+      "has_synced": false,
+      "path": "select/06_白夜_KANA-BOON.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "白夜",
+      "artist": "에픽하이",
+      "has_synced": false,
+      "path": "select/07_白夜_에픽하이.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "白夜 - White Midnight",
+      "artist": "Reol",
+      "has_synced": true,
+      "path": "select/08_白夜_-_White_Midnight_Reol.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "02 白夜",
+      "artist": "Epik High (¿¡ÇÈÇÏÀÌ)",
+      "has_synced": true,
+      "path": "select/09_02_白夜_Epik_High_(¿¡ÇÈÇÏÀÌ).lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "白夜 (White Night)",
+      "artist": "Epik High (에픽하이)",
+      "has_synced": true,
+      "path": "select/10_白夜_(White_Night)_Epik_High_(에픽하이).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "白夜",
+      "artist": "TAEYANG",
+      "has_synced": true,
+      "path": "select/11_白夜_TAEYANG.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "白夜 ~True Light~ (Full Version)",
+      "artist": "宮本駿一",
+      "has_synced": true,
+      "path": "select/12_白夜_~True_Light~_(Full_Version)_宮本駿一.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "백야(白夜) Evanesce Ⅱ",
+      "artist": "SUPER JUNIOR-D&E",
+      "has_synced": true,
+      "path": "select/13_백야(白夜)_Evanesce_II_SUPER_JUNIOR-D&E.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "White Midnight (白夜)",
+      "artist": "Reol",
+      "has_synced": false,
+      "path": "select/14_White_Midnight_(白夜)_Reol.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "白夜",
+      "artist": "草蜢",
+      "has_synced": false,
+      "path": "select/15_白夜_草蜢.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "白夜 ~True Light~ (Original Karaoke)",
+      "artist": "宮本駿一",
+      "has_synced": true,
+      "path": "select/16_白夜_~True_Light~_(Original_Karaoke)_宮本駿一.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "白夜 ~True Light~ (TV Version)",
+      "artist": "宮本駿一",
+      "has_synced": false,
+      "path": "select/17_白夜_~True_Light~_(TV_Version)_宮本駿一.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "白夜",
+      "artist": "Reol",
+      "has_synced": false,
+      "path": "select/pl_01_白夜_Reol.txt"
+    }
+  ]
+}
